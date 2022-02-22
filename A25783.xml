@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Arguments concerning the new buildings in the parishes within the weekly bills of mortality without the city of London</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25783</idno>
+            <idno type="STC">Wing A3641</idno>
+            <idno type="STC">ESTC R28302</idno>
+            <idno type="EEBO-CITATION">10521648</idno>
+            <idno type="OCLC">ocm 10521648</idno>
+            <idno type="VID">45178</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45178)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1394:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Arguments concerning the new buildings in the parishes within the weekly bills of mortality without the city of London</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1677/8?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Goldsmiths' Library, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Building laws --  England --  London.</term>
+               <term>London (England) --  Buildings, structures, etc.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:45178:1" rendition="simple:additions"/>
+            <head>Arguments concernimg the NEW-BUILDINGS in the Pariſhes within the Weekly Bills of Mortality, without the City of LONDON.</head>
+            <p>BEcauſe the increaſe of New-Buildings hath of late occaſion'd much Clamour, and ſeeing ſome Men endeavour by miſtaken Suggeſtions to induce others to believe, That ſuch Buildings are erected againſt Law, and are a publick Nuſance; or if not ſo, that yet the Buil<g ref="char:EOLhyphen"/>ders and Owners thereof (having as they ſuppoſed) made great advantages to themſelves by ſuch Buildings; therefore, they would have it thought reaſonable, that a particular Tax of half a Years value, according to the improv'd Rent, ſhould be impos'd upon them towards the publick Charge: imagining that the ſame will amount unto a vaſt Sum: Wherefore, for the prevention of a thing ſo unequal, and deſtructive to many particular Perſons, and ſo little advantageous to the preſent Deſigne; it may be reaſonable to ſhew the Miſtakes and Errors of ſuch Perſons, and that theſe Buildings are not againſt any Law whatſoever, or any Publick Nuſance, nor ſo advantageous to the Builders and Owners, as is imagined.</p>
+            <p>
+               <list>
+                  <item>I. The Common Law favours much the Increaſe of buildings, being for the Habitations of Men, and gives the Preheminence to Land builded before other Land, <hi>Co. Litt. f.</hi> 4. <hi>a:</hi> And the Supportation and Increaſe of Buildings in the Judgement of Law, was, and is eſteemed a Melioration; and for the benefit of the Publick, and no Nuſance, (according to that dangerous and unintelligble Opinion of ſome Men;) for a publick Nuſance is properly <hi>malum in ſe,</hi> and cannot be ſo by accident; and what is not a Crime originally in it ſelf, can no more become one by Inferences or Conſequen<g ref="char:EOLhyphen"/>ces, than the Accumulation of Things can alter the Name of Things: And it may be very inconvenient to make a Conſtructive or State-Nuſance: But if the Parliament ſhall obſerve any growing Miſchief, or Inconvenience, it may be proper to provide againſt them ſuch preventing Laws, as they in their Prudence ſhall judge meet; but to puniſh Men by a Law <hi>Posterior</hi> to the Fact, muſt needs be unreaſonable: For <hi>
+                        <g ref="char:V">Ʋ</g>bi non eſt Lex ibi non eſt tranſ<g ref="char:EOLhyphen"/>greſſio.</hi> And it is the Birth-right of every <hi>Engliſh-man,</hi> not to be puniſhed, but by the known Laws of the Land; by the which, thoſe who are concern'd in New-buildings, are willing to ſtand and fall; and it is an injury to them, to ſuggeſt the contrary.</item>
+                  <item>II. If theſe buildings were publick Nuſances, any perſon might juſtifie to abate them: neither could any Land-Lords of them, have any remedies for their rents or covenants, which were a thing unreaſonable to imagine, and Contrary to all practice and experience.</item>
+                  <item>III. Th<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> is no <hi>malum prohibitum,</hi> for the firſt, Statute Law, which reſtrains any Buildings, is the 31 <hi>Eliz. cap.</hi> 7. concerning Cottages, made only to prevent poor Cottages in the Country, the uſual receptacles of idle, and beggary people: But leſt other Houſes within Cities, or ancient Burroughs, <hi>&amp;c.</hi> ſhould by a ſtrain'd conſtruction be brought within the compaſs of that Law; there is an expreſs <hi>Proviſo</hi> to exempt them; and ſo it was lately declar'd by the Lord Chief Juſtice <hi>Hales,</hi> upon a Tryal before him in the caſe of one <hi>Partridg,</hi> for a Houſe built near <hi>Hide-Park,</hi> within the City and Liberty of <hi>Weſtminſter;</hi> for without an Act of Parliament, Cottages could not have been reſtrain'd, neither was this a retroſpective Law, <hi>Co. 3d. Inſtit. f.</hi> 204.</item>
+                  <item>IV. The next prohibitory Law was the 35 of <hi>Eliz. cap.</hi> 6. which Law reſtrain'd only the erecting of ſmall Houſes, in and within three Miles of <hi>London,</hi> as fit only to receive poor People, and Vagrants; and not any Buildings for the inlargement of any Houſe, or neceſſary for the Conveniency, or Pleaſure of the Inhabitants; nor the Erection of any Houſes, fit for the Habitation of ſuch, who were or might be Subſidy-men; for, it would be very ſtrange, if Noblemen and Gentlemen might not Build Houſes for their Habitations, which are Ornaments to the place, as the Square in St. <hi>Jame</hi>'s-Fields, <hi>Southampton</hi>-Buildings, and other places, built by Vertue of His Majeſties Letters Patents, and the Expreſs Contrivance of his Officers. And it would be very hard, if the Able and Wealthy Trades men, might not erect Houſes for their Trades and Accommodations; and who ſo conſiders aright, will find the i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> increaſe of Buildings in the Out-parts of the City, to depend upon various Circumſtances; as the increaſe of Trade, the great and conſtant Concourſe of the Nobility and Gentry to the Parliament, the Burning of <hi>London,</hi> His Majeſties Proclamations to invite Forreigners, and other ſecret Cauſes: But this Act of the <hi>35th. of Eliz.</hi> had no Retroſpection, and was only Temporary, and being thought inconvenient, was not continued; and ſerv'd only to give a colour for ſome Proceedings againſt New-Buildings, by ſuch who did not well obſerve the Expiration of it;-which was the Reſtitution of the Common-Law, the beſt Rule for the Determinaton of all Offences, and all Men's Rights and Properties, <hi>Co. 3d. Inſtit.</hi> 204.</item>
+                  <item>V. After the Expiration of this Law, there were Proclamations againſt ſome ſort of Buildings, in and about <hi>London;</hi> but never any general Prohi<g ref="char:EOLhyphen"/>bition or Retroſpection in them; but theſe Proclamations being complaned againſt, as an Invaſion upon the Common Law, and the Rights of the Subjects, the matter was referred about the Eighth of King <hi>James,</hi> to the then two Chief Juſtices, and others; and upon mature conſideration thereof, and upon Conference with the Lords of the Privy Council; it was agreed, That the King by His Proclamation could not make that an Offence, which was not ſo before; nor alter any part of the Common Law, and they agreed the Rule before mentioned, <hi>
+                        <g ref="char:V">Ʋ</g>bi eſt nulla lex, ibi eſt nulla tranſgreſſio;</hi> which ſeems to be a full Reſolution, that <hi>New Buildings</hi> in or about <hi>London,</hi> was no Offence, <hi>Co.</hi> 12. <hi>Rep. f.</hi> 74,</item>
+                  <item>VI. In the Year Fifty ſix, in the time of the Uſurper <hi>Oliver,</hi> there was an Impoſition of a Years value laid upon all Buildings, upon New Foun<g ref="char:EOLhyphen"/>dations, within ten Miles of the Walls of <hi>London:</hi> But what great difficulty there was in raiſing that Money, (though the Act was carefully Penned) How many infinite perplext Caſes did ariſe, what great clamor it occaſioned by the ruine of many particular perſons, what time it required before the ſeveral and reſpective intereſts were adjuſted, how little Money it brought in (though it had a retroſpection of Thirty ſix Years, and an ex<g ref="char:EOLhyphen"/>tent of ten Miles every way from the Walls of <hi>London;</hi> and how long time that little Money was a raiſing, and what immediately followed upon that impoſition, is very well known.</item>
+                  <item>VII. Since His Majeſties Reſtauration, there was an Act made by this Parliament in the Thirteenth and Fourteenth of His Majeſties Reign, which prohibits all Timber, and other irregular Buildings in and about <hi>London,</hi> with a puniſhment upon the Offenders, which by an eaſie Implication ſeems to give a Toleration to others: But what is more obſervable, is, that immediately after the Burning of <hi>London,</hi> when their members brought in a Bill for the Re-building the ſaid City, with an enacting clauſe to reſtrain other Builders in and about the Suburbs, but for five or ſeven years; it is well known that the clauſe was rejected, as a thing prejudicial to mens properties; and though other applications of that kind have been made to the Parliament, they have ſtill been without effect: So that theſe Buildings ſeem rather encouraged even by this Parliament, then otherwiſe.</item>
+                  <item>VIII. It is apparent, That ſuch an Impoſition would be againſt all Parliamentary proceedings, for, there nothing is more Conſonant to right Rea<g ref="char:EOLhyphen"/>ſon and natural Equity, then that publick Charges ſhould be born by publick Contributions, according to the Univerſal Rule, <hi>Communia pericula re<g ref="char:EOLhyphen"/>quirunt Communia auxilia,</hi> and not to be impoſed upon particular perſons, to the ruine of ſome few, and little advantage to the whole. <hi>Co.</hi> 4. <hi>Inſtit. f.</hi> 28.</item>
+                  <item>IX. Such new invented impoſitions have always occaſion'd great diſcontentments and diſturbance, and cauſed inbred hatred and malice, whereas the uſual Taxes which include all, (though heavy) are born with great peace and quietneſs, <hi>Co.</hi> 4. <hi>Inſtit. f.</hi> 28.</item>
+                  <item>X. It is the Law of Parliament, that Taxes ſhould be out of the ſparable parts of mens eſtates, and it will be a dangerous preſident, to alter ſuch a fundamental Coſtitution, by ſuffering innovations, in Taxing a few perſons to half a years value ſo their reveneues, which will be the infallible Ruine of many Perſons, Widowes and Orphans; and the Conſequence of it, will be terrible to all people, who will always remain under an apprehenſion, that hereafter a particular Tax, may be impos'd upon them, that others may be ſpar'd; and that without the tranſgreſſion of any Law.</item>
+                  <item>XI. To impoſe any Fine upon them, is Derogatory to many of his Majeſties Grants; by vertue of which, (as hath been ſaid) moſt of the Builders have been encourag'd, and many of them built upon the Kings inheritance, whereby great improvements do, and may accrew to the Crown: and it would be very ſtrange, that improvements upon the Kings Land, ſhould be a Crime.</item>
+                  <item>
+                     <hi>Laſtly.</hi> VVhereas it is Surmis'd, that the Builders and Owners of ſuch Buildings have made great advantage by them; the contrary to which, may eaſily appear by their great poverty: Many of them being now in a Jayl: Others of them being poor Seamen, VVatermen, VVeavers, Labourers, <hi>&amp;c</hi> and ſuch Trades-men, who being burnt out of <hi>London,</hi> and not able to build there, were forc'd to build in the Subburbs, and have thereby exhauſted their eſtates; and the inhabitants of <hi>Middleſex,</hi> within the weekly bills of Mortality, have had very great ſums of money monthly impos'd upon them, by this very Parliament, for and in reſpect of <hi>new buildings.</hi> And admitting, it were true, that ſome Builders have made great benefit by theſe Buildings, yet it cannot be imagin'd, that ſuch who have purchaſed the ſame upon valuable conſiderations, can have made any advantages thereby. And further, it is almoſt impoſſible, to apprehend what great difficulties, and perplexities will ariſe upon the apportionment of ſuch a Tax, what great delay and trouble there will be in the diſcovery of what Buildings are upon new Foundations, what not; what great inequality and partiality there will be in aſcertaining the ſeveral and reſpective Intereſts; what Injuſtice it ſhall be to all Purchacers, who have made their Purchaces according to the known Laws; what perpetual diſcention it will breed betwixt Landlord and Tenant, Father and Son, where any Settlement of Marriages have been made. In ſhort, it may ſerve to inrich a few Commiſſioners, Regiſters, Clerks, Surveyors, and ſuch like Officers, by the Impoveriſhing of others: But it can never bring any conſiderable ſum to the Publick; and the beſt means for the diſcovery thereof, will be to have recourſe to the proceedings upon the Tax impos'd 1656.</item>
+               </list>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
